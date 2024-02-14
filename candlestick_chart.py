@@ -1,3 +1,4 @@
+# Author: NeuralNine
 import datetime as dt
 import pandas_datareader as web
 import matplotlib.pyplot as plt
